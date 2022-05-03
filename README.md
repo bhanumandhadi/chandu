@@ -1,2 +1,1 @@
-hi
-this is chandu
+echo "This is bhanu chandu"
